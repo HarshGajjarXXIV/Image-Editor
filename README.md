@@ -12,7 +12,7 @@ Green Color Filter<br>
 Blue Color Filter<br>
 <br>
 
-<b>Other Functionalities</b>
+<b>Other Functionalities</b><br>
 Brightness Manuplation<br>
 Contrast Manuplation<br>
 Gamma Manuplation<br>
