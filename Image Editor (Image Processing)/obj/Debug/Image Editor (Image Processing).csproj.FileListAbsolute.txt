@@ -1,0 +1,10 @@
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\bin\Debug\Image Editor (Image Processing).exe.config
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\bin\Debug\Image Editor (Image Processing).exe
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\bin\Debug\Image Editor (Image Processing).pdb
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image Editor (Image Processing).csprojAssemblyReference.cache
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image_Editor__Image_Processing_.Properties.Resources.resources
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image Editor (Image Processing).csproj.GenerateResource.cache
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image Editor (Image Processing).csproj.CoreCompileInputs.cache
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image Editor (Image Processing).exe
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image Editor (Image Processing).pdb
+F:\Developer\Workspace\Visual Studio\Windows\Image Processing\Image Editor (Image Processing)\obj\Debug\Image_Editor__Image_Processing_.MainWindow.resources
