@@ -13,9 +13,9 @@ Blue Color Filter<br>
 <br>
 
 <b>Other Functionalities</b><br>
-Brightness Manuplation<br>
-Contrast Manuplation<br>
-Gamma Manuplation<br>
+Brightness Manipulation<br>
+Contrast Manipulation<br>
+Gamma Manipulation<br>
 Rotate Image Left/Right<br>
 Flip Image Horizontal/Vertical<br>
 Undo Changes (Up-To last 10 changes)<br>
